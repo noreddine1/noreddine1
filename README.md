@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Noureddine! 👋
 
-<!--
-**noreddine1/noreddine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and current student at [1337 Khouribga](https://1337.ma/en/), honing my skills in **C**, **C++**, and **Python**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Developer focused on systems programming, algorithms, and building creative solutions.
+- 🎓 Student at 1337 Khouribga, always exploring new technologies and challenges.
+- 🌟 Always ready to collaborate and learn within the open-source community!
+
+## 🛠️ Languages & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📌 Featured Project
+
+### [ft-transcendence](https://github.com/noreddine1/ft-transcendence)
+An exciting project that showcases my passion for coding, learning, and pushing boundaries at 1337 Khouribga.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/noureddine-maazouz-32322334b)
+
+---
+
+_Thanks for visiting my profile! Let's connect and build something amazing together._
